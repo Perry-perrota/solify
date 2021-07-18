@@ -753,7 +753,7 @@ footer li.widgets-view b {
 
 footer li.widgets-view li.menu {
     float: left;
-    
+    width 100%;
     margin-bottom: 6px;
 }
 
